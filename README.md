@@ -4,8 +4,8 @@ This digital portfolio showcases my journey through work readiness training, dev
 
 ---
 Full Name: Ofentse Lebaka
-Contact number:
-Email Address:
+Contact number:066 144 8983
+Email Address:O.Lebaka@plum.systems
 
 
 ## 📌 Table of Contents
@@ -108,7 +108,7 @@ The insights helped me understand my strengths in planning and critical thinking
 ### CV Evidence
 
 You can view my latest CV here:  
-[📄 View My CV (PDF)]
+[📄 View My CV (PDF)]matricc_merged (1).pdf
 
 ### CV Reflection (STAR)
 
@@ -126,6 +126,7 @@ The final CV is now focused, structured, and aligned with current industry stand
 
 ### CV Submission Proof
 
-![Blackboard Submission Confirmation](images/cv_submission.png)
+![image](https://github.com/user-attachments/assets/6518500c-a9a3-447a-9899-5f3e0078a889)
+
 
 ---
