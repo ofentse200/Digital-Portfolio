@@ -1,100 +1,201 @@
-Prp
-OFENTSE LEBAKA
-________________________________________
-Contact Details
-6 Browning Rd, Salt River, Cape Town, 7925, South Africa
-066 144 8983
-221108785@mycput.ac.za
-________________________________________
-Career Objective
-I am an ICT Application Development student seeking a Work Integrated Learning (WIL) opportunity. I aim to apply my programming, problem-solving, and software development skills in a real-world environment while gaining industry experience.
-________________________________________
-Education
-Diploma in ICT: Application Development (Current)
-Cape Peninsula University of Technology
-National Senior Certificate (NSC)
-Mtwalume High School
-Subjects:
-•	Physical Sciences
-•	Mathematical 
-•	Geography
-•	Life Science
-•	Sepedi HL
-•	English FAL
-•	Life Orientation
-________________________________________
-Skills
-•	Java Programming
-•	Object-Oriented Programming
-•	GitHub Version Control
-•	SQL / Databases
-•	Software Testing (JUnit)
-•	Basic UI Design
-________________________________________
-Projects / Experience
-Shuttle Booking System
-Tech: Java, Spring Boot, JPA, MySQL, GitHub
-•	Developed a backend system for managing shuttle bookings and ticket generation
-•	Designed and implemented QRCode and Ticket entities using JPA
-•	Established relationships between entities (One-to-One and Many-to-One)
-•	Applied the Builder design pattern for object creation
-•	Implemented Domain, Factory, Repository, and Service layers
-•	Responsible for QR code functionality used for ticket verification
-•	Collaborated in a team where each member handled a specific entity
-GitHub: https://github.com/Shuttle-Booking-System/busBuddy.git
-________________________________________
-Booking Application
-Tech: Java, Spring Boot, JPA, MySQL, GitHub
-•	Developed a hotel booking system to manage rooms and users
-•	Designed and implemented the Review entity for customer feedback
-•	Created relationships between User and Room using JPA
-•	Implemented rating, comments, and timestamp functionality
-•	Applied Builder pattern for clean object creation
-•	Developed Controller, Factory, Repository, and Service layers for Review
-•	Worked in a team where each member was responsible for a specific entity
-________________________________________
-Reflection on Project Development
-Situation:
-I worked on group-based software development projects where each member was responsible for a specific system component.
-Task:
-My role was to develop backend functionality, including QR code and ticket management for the shuttle system, and the review functionality for the hotel system.
-Action:
-I designed and implemented entities using Java and JPA, applied object-oriented principles, and used the Builder pattern. I also contributed to layered architecture including repository and service layers and used GitHub for collaboration.
-Result:
-I successfully developed functional backend components and improved my understanding of real-world system design, teamwork, and problem-solving.
-________________________________________
-Reflection on Coding in Markdown
-Situation:
-This was my first time using Markdown to create a professional portfolio.
-Task:
-I needed to structure my CV and portfolio content clearly using Markdown syntax.
-Action:
-I learned how to format text using headings, lists, links, and embedded media. I practised writing clean and organised content suitable for GitHub.
-Result:
-I successfully created a structured and professional digital portfolio. I improved my documentation and presentation skills.
-________________________________________
-Mock Interview Video
+# Digital Portfolio
 
+# OFENTSE LEBAKA
 
+📍 6 Browning Road, Salt River, Cape Town, 7925, South Africa
+📞 066 144 8983
+📧 [221108785@mycput.ac.za](mailto:221108785@mycput.ac.za)
 
+---
 
-________________________________________
-Reflection on Mock Interview (STAR Method)
-Situation:
-I participated in a mock interview as part of my work readiness training.
-Task:
+## Career Objective
+
+I am an ICT Application Development student seeking a Work Integrated Learning (WIL) opportunity. I aim to apply my programming, problem-solving, and software development skills in a real-world environment while gaining valuable industry experience.
+
+---
+
+## Education
+
+### Diploma in ICT: Application Development (Current)
+
+**Cape Peninsula University of Technology (CPUT)**
+
+### National Senior Certificate (NSC)
+
+**Mtwalume High School**
+
+**Subjects:**
+
+* Physical Sciences
+* Mathematics
+* Geography
+* Life Sciences
+* Sepedi Home Language
+* English First Additional Language
+* Life Orientation
+
+---
+
+## Technical Skills
+
+* Java Programming
+* Object-Oriented Programming (OOP)
+* Spring Boot
+* JPA/Hibernate
+* MySQL
+* SQL Databases
+* Git & GitHub
+* Software Testing (JUnit)
+* Basic UI Design
+
+---
+
+## Projects
+
+### Shuttle Booking System
+
+**Technologies:** Java, Spring Boot, JPA, MySQL, GitHub
+
+#### Project Overview
+
+Developed a backend system for managing shuttle bookings and ticket generation.
+
+#### Responsibilities
+
+* Designed and implemented QR Code and Ticket entities using JPA.
+* Established One-to-One and Many-to-One entity relationships.
+* Applied the Builder Design Pattern for object creation.
+* Implemented Domain, Factory, Repository, and Service layers.
+* Developed QR code functionality for ticket verification.
+* Collaborated within a team environment where each member managed a specific entity.
+
+**GitHub Repository:**
+https://github.com/Shuttle-Booking-System/busBuddy.git
+
+---
+
+### Hotel Booking Application
+
+**Technologies:** Java, Spring Boot, JPA, MySQL, GitHub
+
+#### Project Overview
+
+Developed a hotel booking system to manage rooms, users, and customer reviews.
+
+#### Responsibilities
+
+* Designed and implemented the Review entity.
+* Created relationships between User and Room entities using JPA.
+* Implemented ratings, comments, and timestamp functionality.
+* Applied the Builder Design Pattern.
+* Developed Controller, Factory, Repository, and Service layers.
+* Collaborated in a team-based development environment.
+
+---
+
+## Project Reflection (STAR Method)
+
+### Situation
+
+I participated in group-based software development projects where each team member was responsible for a specific system component.
+
+### Task
+
+My responsibility was to develop backend functionality, including:
+
+* QR code and ticket management for the Shuttle Booking System.
+* Review management for the Hotel Booking Application.
+
+### Action
+
+* Designed and implemented entities using Java and JPA.
+* Applied object-oriented programming principles.
+* Used the Builder Design Pattern for clean object creation.
+* Contributed to repository and service layers.
+* Used GitHub for version control and team collaboration.
+
+### Result
+
+* Successfully developed functional backend components.
+* Improved understanding of real-world software architecture.
+* Strengthened teamwork and problem-solving skills.
+* Gained practical experience in collaborative software development.
+
+---
+
+## Reflection on Coding in Markdown
+
+### Situation
+
+This was my first experience creating a professional portfolio using Markdown.
+
+### Task
+
+I needed to structure my CV and portfolio content clearly and professionally.
+
+### Action
+
+* Learned Markdown syntax.
+* Used headings, lists, hyperlinks, and formatting tools.
+* Practised writing organized documentation suitable for GitHub.
+
+### Result
+
+* Successfully created a professional digital portfolio.
+* Improved technical documentation skills.
+* Enhanced presentation and communication abilities.
+
+---
+
+## Mock Interview Video
+
+*(Embed your video link here)*
+
+Example:
+
+[Watch My Mock Interview](PASTE_YOUR_VIDEO_LINK_HERE)
+
+---
+
+## Reflection on Mock Interview (STAR Method)
+
+### Situation
+
+I participated in a mock interview as part of my work-readiness training.
+
+### Task
+
 I needed to present myself professionally and answer interview questions confidently.
-Action:
-I prepared answers, practised communication skills, and recorded my interview. I focused on improving clarity, confidence, and body language.
-Result:
-I gained confidence in answering interview questions and identified areas for improvement such as communication and presentation skills.
-________________________________________
-References
-•	Mrs TP Mpisi
-Mentor
-Marishane primary
-063 362 6283
-•	Ms TH Mpisi
-Rantobeng high School Educator
-•	063 800 8392
 
+### Action
+
+* Prepared answers to common interview questions.
+* Practised communication and presentation skills.
+* Recorded and reviewed my interview performance.
+* Focused on improving clarity, confidence, and body language.
+
+### Result
+
+* Increased confidence during interviews.
+* Improved communication skills.
+* Identified areas for further development in presentation and professional speaking.
+
+---
+
+## References
+
+### Mrs T.P. Mpisi
+
+**Mentor – Marishane Primary School**
+📞 063 362 6283
+
+### Ms T.H. Mpisi
+
+**Educator – Rantobeng High School**
+📞 063 800 8392
+
+---
+
+## Portfolio Website
+
+https://ofentse200.github.io/Digital-Portfolio/
