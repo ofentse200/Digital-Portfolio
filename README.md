@@ -149,13 +149,6 @@ I needed to structure my CV and portfolio content clearly and professionally.
 
 ## Mock Interview Video
 
-*(Embed your video link here)*
-
-Example:
-
-[Watch My Mock Interview](PASTE_YOUR_VIDEO_LINK_HERE)
-
----
 
 ## Reflection on Mock Interview (STAR Method)
 
